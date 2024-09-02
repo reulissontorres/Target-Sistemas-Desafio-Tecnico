@@ -1,0 +1,15 @@
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/bin/Debug/net6.0/TargetSistemas.Fibonacci
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/bin/Debug/net6.0/TargetSistemas.Fibonacci.deps.json
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/bin/Debug/net6.0/TargetSistemas.Fibonacci.runtimeconfig.json
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/bin/Debug/net6.0/TargetSistemas.Fibonacci.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/bin/Debug/net6.0/ref/TargetSistemas.Fibonacci.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/bin/Debug/net6.0/TargetSistemas.Fibonacci.pdb
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.csproj.AssemblyReference.cache
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.AssemblyInfoInputs.cache
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.AssemblyInfo.cs
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.csproj.CoreCompileInputs.cache
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/ref/TargetSistemas.Fibonacci.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.pdb
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.Fibonacci/obj/Debug/net6.0/TargetSistemas.Fibonacci.genruntimeconfig.cache

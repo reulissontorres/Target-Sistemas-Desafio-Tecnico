@@ -1,0 +1,15 @@
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/bin/Debug/net6.0/TargetSistemas.String
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/bin/Debug/net6.0/TargetSistemas.String.deps.json
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/bin/Debug/net6.0/TargetSistemas.String.runtimeconfig.json
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/bin/Debug/net6.0/TargetSistemas.String.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/bin/Debug/net6.0/ref/TargetSistemas.String.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/bin/Debug/net6.0/TargetSistemas.String.pdb
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.csproj.AssemblyReference.cache
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.GeneratedMSBuildEditorConfig.editorconfig
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.AssemblyInfoInputs.cache
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.AssemblyInfo.cs
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.csproj.CoreCompileInputs.cache
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/ref/TargetSistemas.String.dll
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.pdb
+/home/reulisson/Área de Trabalho/reulisson-nds/TargetSistemas/TargetSistemas.String/obj/Debug/net6.0/TargetSistemas.String.genruntimeconfig.cache
